@@ -3,6 +3,10 @@ Fork of WaveyCapes by tr7zw which adds left to right waves. Looks Awesome! **[FA
 
 Full credits to tr7zw for making the original mod.
 
+## Why Not Forge?
+
+Forge is considerably laggy and slow (Especially for my laptop, not a pc). Fabric is also more modern and doesn't consume any frames per second on it's own in performance while forge, does. Sorry if you wanted forge, you can fork this and make it compatible with forge (Please read tr7zw's licence before doing so).
+
 ## Dependencies
 
 - None
