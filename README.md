@@ -1,19 +1,6 @@
 # WaveyCapesPLUS
-Fork of WaveyCapes by tr7zw which adds left to right waves. Looks AWESOME!
-
-
-# Normal WaveyCapes README
-![](https://raw.githubusercontent.com/tr7zw/WaveyCapes/1.19.3/img/header.png)
-
-[![Discord](https://tr7zw.dev/curse/Discord-long.png)](https://discord.gg/2wKH8yeThf)
-
-# WaveyCapes
-
-The cape shouldn't be a static slab. WaveyCapes mod animates the cape in a more fluent way, adding physics and rendering it in one bent part instead of small cubes. You can change between rendering styles, cape behavior, and wind effects in the config screen accessible via the mod-list (requires Mod Menu on fabric).
-
-![](https://raw.githubusercontent.com/tr7zw/WaveyCapes/1.19.3/img/moving.gif)
-
-Since this mod is purely visual and fully clientside, it doesn't have to be installed on servers and works everywhere.
+Fork of WaveyCapes by tr7zw which adds left to right waves. Looks Awesome!
+Full credits to tr7zw for making the original mod.
 
 ## Dependencies
 
@@ -48,8 +35,6 @@ Since this mod is purely visual and fully clientside, it doesn't have to be inst
   A: Optifine does not support the new cape rendering, it will use the old style.
 - Q: How do I get the cape to look like the older versions of the mod?
   A: You can change between rendering styles, cape behavior, and wind effects in the config screen.
-
-Support via [![Discord](https://tr7zw.dev/curse/Discord.png)](https://discord.gg/2wKH8yeThf) or [Github](https://github.com/tr7zw/3d-skin-layers)!
 
 ## License
 
