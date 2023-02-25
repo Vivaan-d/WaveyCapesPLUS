@@ -1,6 +1,8 @@
 # WaveyCapesPLUS
 Fork of WaveyCapes by tr7zw which adds left to right waves. Looks AWESOME!
 
+
+# Normal WaveyCapes README
 ![](https://raw.githubusercontent.com/tr7zw/WaveyCapes/1.19.3/img/header.png)
 
 [![Discord](https://tr7zw.dev/curse/Discord-long.png)](https://discord.gg/2wKH8yeThf)
